@@ -31,6 +31,19 @@
             <artifactId>aspectjweaver</artifactId>
             <version>1.9.0.BETA-6</version>
         </dependency>
+
+        <dependency>
+            <groupId>commons-io</groupId>
+            <artifactId>commons-io</artifactId>
+            <version>20030203.000550</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok-maven-plugin</artifactId>
+            <version>0.10.4.0</version>
+        </dependency>
+
     </dependencies>
 
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Springlearning/Spring-learning-1-1-1.iml" filepath="$PROJECT_DIR$/Springlearning/Spring-learning-1-1-1.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot-mybatis-mutil-datasource/springboot-mybatis-mutil-datasource.iml" filepath="$PROJECT_DIR$/springboot-mybatis-mutil-datasource/springboot-mybatis-mutil-datasource.iml" />
     </modules>
   </component>
 </project>
